@@ -11,7 +11,7 @@ leaves the machine.
 - 📖 [The Spatiotemporal Memory Lattice](https://mlixer.github.io/spatiotemporal-memory-lattice/) —
   a write-up of the memory architecture, told failure-first: 150 days of
   daily use, 170 conversations, distilled into a system that remembers.
-- 🧩 [Memory Lattice extension](https://github.com/mlixer/memory-pipeline) —
+- 🧩 [Memory Lattice extension](https://github.com/mlixer/memory-lattice) —
   the SillyTavern implementation (AGPL-3.0): nightly memory pipeline,
   per-message recall, consolidated story arcs, versioned fact sheets.
 - 🔜 Coming as they're scrubbed for release: the ticket system (agentic task
