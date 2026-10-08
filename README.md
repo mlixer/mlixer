@@ -14,7 +14,6 @@ leaves the machine.
 - 🧩 [Memory Lattice extension](https://github.com/mlixer/memory-lattice) —
   the SillyTavern implementation (AGPL-3.0): nightly memory pipeline,
   per-message recall, consolidated story arcs, versioned fact sheets.
-- 🔜 Coming as they're scrubbed for release: the ticket system (agentic task
-  bus), the synthetic endocrine state, voice, and a from-zero quickstart.
+- 🔜 Coming as they're scrubbed for release: voice, and a from-zero quickstart.
 
 Currently: living with the system daily and publishing it piece by piece.
